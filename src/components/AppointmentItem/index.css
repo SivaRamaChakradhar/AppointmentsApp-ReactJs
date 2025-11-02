@@ -1,0 +1,33 @@
+* {
+  font-family: 'Roboto';
+}
+.listItem {
+  border: 1px solid #b5b7c4;
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+}
+.title-star {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  margin: 0;
+  font-size: 15px;
+  color: #171f46;
+}
+.star-btn {
+  background-color: transparent;
+  border: none;
+}
+.star-img {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+p {
+  color: #b5b7c4;
+  margin: 5px;
+}
